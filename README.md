@@ -1,11 +1,11 @@
 ![github-header-image (2)](https://user-images.githubusercontent.com/103368361/162623922-f4671fc8-2acf-4f6e-a9dc-8c1b4ee2bd4a.png)
 
 - 👋 Hi, I’m Janita Phatak
-- 🧡 I love programming 
+- ❤️ I love programming 
 - 🎓 I’m currently pursuing master's in Informational Technology at Patkar-Varde college, Mumbai. 
       I have completed my graduation in Comuter Science in 2020 from Patkar-Varde college.
-- 👀 I’m interested in Web Development, Networking.
-- ⚡ Technologies - HTML, CSS, Java, Python, React.js, SQL, PHP, CISCO, .Net
+- 👀 I’m interested in Full stack Web Development.
+- ⚡ Technologies - HTML, CSS, JavaScript, Java, Python, React.js.
 - 📫 How to reach me phatakjanita@gmail.com
 
 <!---
